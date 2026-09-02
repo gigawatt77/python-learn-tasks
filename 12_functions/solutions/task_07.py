@@ -1,9 +1,9 @@
-def max_of_two(a, b):
+def max_damage(a, b):
     if a > b:
         return a
     else:
         return b
 
 
-result = max_of_two(15, 42)
+result = max_damage(15, 42)
 print(result)

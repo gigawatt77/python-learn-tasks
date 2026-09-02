@@ -1,4 +1,4 @@
-schet_start = 1
+nomer_start = 1
 
 chislo = 2
 while chislo <= 10:

@@ -1,8 +1,8 @@
-text = "Молоко и мороженое очень вкусные продукты"
+text = "Гоночная машина мчалась по трассе на максимальной скорости"
 counter = 0
 
 for letter in text:
-    if letter == "о":
+    if letter == "а":
         counter = counter + 1
 
-print(f"Буква 'о' встречается {counter} раз")
+print(f"Буква 'а' встречается {counter} раз")

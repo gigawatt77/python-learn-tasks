@@ -1,3 +1,3 @@
-toys = ["мяч", "юла", "кубики", "машинка"]
-toys.remove("юла")
-print(toys)
+bench = ["Иван", "Пётр", "Олег", "Данил"]
+bench.remove("Пётр")
+print(bench)

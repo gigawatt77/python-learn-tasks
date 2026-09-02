@@ -1,8 +1,8 @@
-numbers = [7, 22, 3, 45, 19, 8]
-biggest = numbers[0]
+speeds = [180, 240, 210, 260, 195]
+fastest = speeds[0]
 
-for number in numbers:
-    if number > biggest:
-        biggest = number
+for speed in speeds:
+    if speed > fastest:
+        fastest = speed
 
-print("Самое большое число:", biggest)
+print("Самая высокая скорость:", fastest)

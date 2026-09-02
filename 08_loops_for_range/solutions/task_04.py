@@ -1,4 +1,4 @@
-frukty = ["яблоко", "банан", "груша"]
+inventar = ["меч", "щит", "яблоко"]
 
-for frukt in frukty:
-    print(frukt)
+for predmet in inventar:
+    print(predmet)

@@ -8,7 +8,7 @@
 def greet(name):
     print(f"Привет, {name}!")
 
-greet("Аня")
+greet("Миша")
 ```
 
 ## Параметры и аргументы

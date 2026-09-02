@@ -1,6 +1,6 @@
-vozrast = 6
+zaryad = 30
 
-if vozrast >= 7:
-    print("Пора в школу!")
+if zaryad >= 50:
+    print("Робот готов к работе!")
 else:
-    print("Ещё рано в школу")
+    print("Робот на подзарядке")

@@ -1,4 +1,4 @@
 score = 0
 print(score)
-score = 10
+score = 1
 print(score)

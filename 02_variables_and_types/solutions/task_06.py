@@ -1,3 +1,3 @@
-city = "Москва"
-temperature = -3
-print("Погода в городе", city, ":", temperature)
+car = "Ferrari"
+speed = 320
+print("Скорость машины", car, ":", speed)

@@ -1,8 +1,8 @@
-temperatura = 20
+temperatura_dvigatelya = 70
 
-if temperatura > 30:
-    print("Жара")
-elif temperatura >= 15:
-    print("Тепло")
+if temperatura_dvigatelya > 100:
+    print("Перегрев!")
+elif temperatura_dvigatelya >= 50:
+    print("Норма")
 else:
-    print("Холодно")
+    print("Двигатель холодный")

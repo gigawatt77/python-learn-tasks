@@ -1,7 +1,7 @@
-grades = [5, 4, 5, 3, 5]
+fuel_levels = [50, 80, 65, 90, 70]
 total = 0
 
-for grade in grades:
-    total = total + grade
+for fuel in fuel_levels:
+    total = total + fuel
 
-print("Сумма оценок:", total)
+print("Общий запас топлива:", total)

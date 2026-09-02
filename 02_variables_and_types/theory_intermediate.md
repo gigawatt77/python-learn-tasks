@@ -4,7 +4,7 @@
 Присваивание делается оператором `=`:
 
 ```python
-name = "Аня"
+name = "Миша"
 age = 12
 height = 148.5
 likes_python = True

@@ -1,17 +1,17 @@
 """
 ЗАДАЧА 5:
-В переменной temperatura лежит температура воздуха.
+В переменной temperatura_dvigatelya лежит температура двигателя машины (в градусах).
 Напечатай:
-- "Жара" если temperatura больше 30
-- "Тепло" если temperatura от 15 до 30 включительно
-- "Холодно" если temperatura меньше 15
+- "Перегрев!" если temperatura_dvigatelya больше 100
+- "Норма" если temperatura_dvigatelya от 50 до 100 включительно
+- "Двигатель холодный" если temperatura_dvigatelya меньше 50
 Используй if/elif/else.
 
-Пример вывода (для temperatura = 20):
-Тепло
+Пример вывода (для temperatura_dvigatelya = 70):
+Норма
 """
 
-temperatura = 20
+temperatura_dvigatelya = 70
 
-# TODO: напиши if/elif/else для проверки температуры
+# TODO: напиши if/elif/else для проверки температуры двигателя
 print("TODO: реши задачу выше")

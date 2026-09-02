@@ -1,2 +1,2 @@
-phonebook = {"Аня": "111-22-33", "Максим": "444-55-66"}
-print(phonebook["Максим"])
+jersey_numbers = {"Миша": 7, "Максим": 10}
+print(jersey_numbers["Максим"])

@@ -1,6 +1,6 @@
-def add(a, b):
-    return a + b
+def total_points(goals, assists):
+    return goals + assists
 
 
-result = add(15, 27)
+result = total_points(15, 27)
 print(result)

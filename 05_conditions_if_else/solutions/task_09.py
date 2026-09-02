@@ -1,10 +1,10 @@
-vozrast = 18
-bilet_est = True
+uroven = 18
+est_klyuch = True
 
-if vozrast >= 16:
-    if bilet_est:
-        print("Проходи в зал")
+if uroven >= 16:
+    if est_klyuch:
+        print("Открывается секретная комната")
     else:
-        print("Сначала купи билет")
+        print("Сначала найди ключ")
 else:
-    print("Фильм для тех, кто постарше")
+    print("Комната для игроков постарше")

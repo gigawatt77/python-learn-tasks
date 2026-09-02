@@ -1,4 +1,4 @@
-uchastniki = ["Аня", "Петя", "Маша"]
+bombardiry = ["Миша", "Петя", "Маша"]
 
-for indeks, imya in enumerate(uchastniki, start=1):
+for indeks, imya in enumerate(bombardiry, start=1):
     print(indeks, "место:", imya)

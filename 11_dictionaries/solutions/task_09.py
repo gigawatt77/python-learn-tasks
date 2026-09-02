@@ -1,10 +1,10 @@
-animals = ["кот", "пёс", "кот", "хомяк", "пёс", "кот"]
+mobs = ["зомби", "крипер", "зомби", "скелет", "крипер", "зомби"]
 counts = {}
 
-for animal in animals:
-    if animal in counts:
-        counts[animal] = counts[animal] + 1
+for mob in mobs:
+    if mob in counts:
+        counts[mob] = counts[mob] + 1
     else:
-        counts[animal] = 1
+        counts[mob] = 1
 
 print(counts)
