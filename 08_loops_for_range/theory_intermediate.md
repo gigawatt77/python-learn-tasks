@@ -30,7 +30,7 @@ range(10, 0, -1)  # 10, 9, 8, ..., 1 (отрицательный шаг — сч
 кортежем и т.д.
 
 ```python
-imya = "Аня"
+imya = "Миша"
 for bukva in imya:
     print(bukva)
 

@@ -1,6 +1,6 @@
-summa = 0
+litrov_vsego = 0
 
 for i in range(1, 6):
-    summa += i
+    litrov_vsego += i
 
-print(summa)
+print(litrov_vsego)

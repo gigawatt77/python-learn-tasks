@@ -1,3 +1,3 @@
-scores = {"Аня": 4, "Максим": 3, "Соня": 5}
-scores["Максим"] = 5
-print(scores)
+battery = {"R1": 40, "R2": 60, "R3": 90}
+battery["R2"] = 100
+print(battery)

@@ -1,8 +1,8 @@
-vozrast = 10
-rost = 130
-so_vzroslym = True
+uroven = 10
+hp = 130
+est_bronya = True
 
-if (vozrast >= 12 and rost >= 140) or so_vzroslym:
-    print("Можно кататься")
+if (uroven >= 12 and hp >= 140) or est_bronya:
+    print("Можно сражаться с боссом")
 else:
-    print("Нельзя кататься")
+    print("Нельзя сражаться с боссом")

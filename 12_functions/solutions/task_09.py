@@ -5,5 +5,5 @@ def average(numbers):
     return total / len(numbers)
 
 
-grades = [5, 4, 5, 3, 4, 5]
-print(average(grades))
+ratings = [5, 4, 5, 3, 4, 5]
+print(average(ratings))

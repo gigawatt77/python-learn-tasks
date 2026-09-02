@@ -1,9 +1,9 @@
 total = 537
 
-bills = total // 100
-coins = total % 100
-check = bills * 100 + coins
+bars = total // 100
+gems = total % 100
+check = bars * 100 + gems
 
-print(bills)
-print(coins)
+print(bars)
+print(gems)
 print(check)

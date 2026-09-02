@@ -1,7 +1,7 @@
-ocenka_matematika = 5
-ocenka_russkiy = 4
+proverka_dvigatelya = 5
+proverka_topliva = 4
 
-if ocenka_matematika == 5 and ocenka_russkiy == 5:
-    print("Отличник по этим предметам")
+if proverka_dvigatelya == 5 and proverka_topliva == 5:
+    print("Ракета готова к старту!")
 else:
-    print("Есть куда расти")
+    print("Нужна ещё проверка")

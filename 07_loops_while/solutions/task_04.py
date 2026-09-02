@@ -1,8 +1,8 @@
-schet = 1
-summa = 0
+den = 1
+vsego_blokov = 0
 
-while schet <= 10:
-    summa += schet
-    schet += 1
+while den <= 10:
+    vsego_blokov += den
+    den += 1
 
-print(summa)
+print(vsego_blokov)

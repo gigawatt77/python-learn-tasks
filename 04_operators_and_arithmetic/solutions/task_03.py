@@ -1,8 +1,8 @@
-candies = 34
-per_bag = 6
+fuel = 34
+per_rocket = 6
 
-full_bags = candies // per_bag
-leftover = candies % per_bag
+full_rockets = fuel // per_rocket
+leftover = fuel % per_rocket
 
-print(full_bags)
+print(full_rockets)
 print(leftover)

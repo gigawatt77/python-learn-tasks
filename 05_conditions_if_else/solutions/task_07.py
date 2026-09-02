@@ -1,9 +1,9 @@
-ball_1 = 10
-ball_2 = 7
+goli_komanda_1 = 10
+goli_komanda_2 = 7
 
-if ball_1 > ball_2:
-    print("Победил первый игрок")
-elif ball_2 > ball_1:
-    print("Победил второй игрок")
+if goli_komanda_1 > goli_komanda_2:
+    print("Победила первая команда")
+elif goli_komanda_2 > goli_komanda_1:
+    print("Победила вторая команда")
 else:
     print("Ничья")

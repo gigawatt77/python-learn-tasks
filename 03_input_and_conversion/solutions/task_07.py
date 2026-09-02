@@ -1,2 +1,2 @@
-coins = int(input())
-print(coins + 10 - 3)
+diamonds = int(input())
+print(diamonds + 10 - 3)

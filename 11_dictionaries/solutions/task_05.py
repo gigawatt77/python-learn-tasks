@@ -1,3 +1,3 @@
-prices = {"хлеб": 45, "молоко": 70, "яблоки": 120}
-for item, price in prices.items():
-    print(item, "-", price)
+garage = {"Лада": 900000, "Тойота": 2500000, "Феррари": 15000000}
+for car, price in garage.items():
+    print(car, "-", price)

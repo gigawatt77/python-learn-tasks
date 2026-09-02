@@ -1,3 +1,3 @@
-print("1. Minecraft")
-print("2. Roblox")
-print("3. Among Us")
+print("1. Построил дом")
+print("2. Победил дракона Края")
+print("3. Нашёл алмазы")

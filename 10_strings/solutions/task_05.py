@@ -1,2 +1,2 @@
-sentence = "Python это очень интересный язык"
-print(sentence.split())
+message = "Робот обнаружил опасную зону впереди"
+print(message.split())

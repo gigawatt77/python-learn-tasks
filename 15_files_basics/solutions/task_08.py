@@ -1,10 +1,10 @@
 import os
 
 путь_к_файлу = os.path.join(os.path.dirname(__file__), "task_08_data.txt")
-числа = [3, 7, 1, 9, 4]
+рекорды = [120, 95, 340, 60, 210]
 
 with open(путь_к_файлу, "w", encoding="utf-8") as файл:
-    for число in числа:
+    for число in рекорды:
         файл.write(str(число) + "\n")
 
 with open(путь_к_файлу, "r", encoding="utf-8") as файл:
