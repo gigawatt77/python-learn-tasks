@@ -1,18 +1,18 @@
 """
 ЗАДАЧА 7:
-В переменных goli_komanda_1 и goli_komanda_2 лежат голы двух футбольных команд
+В переменных ochki_komanda_1 и ochki_komanda_2 лежат очки двух баскетбольных команд
 в матче. Напечатай, кто выиграл:
-- если goli_komanda_1 больше goli_komanda_2 — "Победила первая команда"
-- если goli_komanda_2 больше goli_komanda_1 — "Победила вторая команда"
-- если голы равны — "Ничья"
+- если ochki_komanda_1 больше ochki_komanda_2 — "Победила первая команда"
+- если ochki_komanda_2 больше ochki_komanda_1 — "Победила вторая команда"
+- если очки равны — "Ничья"
 Используй if/elif/else.
 
-Пример вывода (для goli_komanda_1 = 10, goli_komanda_2 = 7):
+Пример вывода (для ochki_komanda_1 = 10, ochki_komanda_2 = 7):
 Победила первая команда
 """
 
-goli_komanda_1 = 10
-goli_komanda_2 = 7
+ochki_komanda_1 = 10
+ochki_komanda_2 = 7
 
-# TODO: напиши if/elif/else для сравнения голов команд
+# TODO: напиши if/elif/else для сравнения очков команд
 print("TODO: реши задачу выше")
