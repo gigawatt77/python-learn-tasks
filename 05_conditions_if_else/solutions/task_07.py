@@ -1,9 +1,9 @@
-goli_komanda_1 = 10
-goli_komanda_2 = 7
+ochki_komanda_1 = 10
+ochki_komanda_2 = 7
 
-if goli_komanda_1 > goli_komanda_2:
+if ochki_komanda_1 > ochki_komanda_2:
     print("Победила первая команда")
-elif goli_komanda_2 > goli_komanda_1:
+elif ochki_komanda_2 > ochki_komanda_1:
     print("Победила вторая команда")
 else:
     print("Ничья")
